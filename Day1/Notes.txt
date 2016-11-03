@@ -1,0 +1,76 @@
+This is Day1
+Deepti@VAIO-Deepti MINGW64 ~ (master)
+$ cd F:
+
+Deepti@VAIO-Deepti MINGW64 /f
+$ ls
+'$RECYCLE.BIN'/  Java-Workout/   'marymoor park'/              'Trip Pictures'/
+Books/           'Lake Chelan'/  'System Volume Information'/  workout-notes/
+
+Deepti@VAIO-Deepti MINGW64 /f
+$ cd
+$RECYCLE.BIN/              marymoor park/
+Books/                     System Volume Information/
+Java-Workout/              Trip Pictures/
+Lake Chelan/               workout-notes/
+
+Deepti@VAIO-Deepti MINGW64 /f
+$ cd Java-Workout/
+
+Deepti@VAIO-Deepti MINGW64 /f/Java-Workout (master)
+$ ls
+JavaWorkout.iml  out/  src/
+
+Deepti@VAIO-Deepti MINGW64 /f/Java-Workout (master)
+$ cd ..
+
+Deepti@VAIO-Deepti MINGW64 /f
+$ git clone https://github.com/deeptig89/Java-Workout.git
+Cloning into 'Java-Workout'...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+
+Deepti@VAIO-Deepti MINGW64 /f
+$ ls
+'$RECYCLE.BIN'/  JW/               'System Volume Information'/
+Books/           'Lake Chelan'/    'Trip Pictures'/
+Java-Workout/    'marymoor park'/  workout-notes/
+
+Deepti@VAIO-Deepti MINGW64 /f
+$ cd J
+Java-Workout/ JW/
+
+Deepti@VAIO-Deepti MINGW64 /f
+$ cd Ja
+bash: cd: Ja: No such file or directory
+
+Deepti@VAIO-Deepti MINGW64 /f
+$ cd Java-Workout/ls
+bash: cd: Java-Workout/ls: No such file or directory
+
+Deepti@VAIO-Deepti MINGW64 /f
+$ cd Java-Workout/
+
+Deepti@VAIO-Deepti MINGW64 /f/Java-Workout (master)
+$ ls
+README.md
+
+Deepti@VAIO-Deepti MINGW64 /f/Java-Workout (master)
+$ mkdir Day1
+
+Deepti@VAIO-Deepti MINGW64 /f/Java-Workout (master)
+$ ls
+Day1/  README.md
+
+Deepti@VAIO-Deepti MINGW64 /f/Java-Workout (master)
+$ cd Day1
+
+Deepti@VAIO-Deepti MINGW64 /f/Java-Workout/Day1 (master)
+$ touch Notes.txt
+
+Deepti@VAIO-Deepti MINGW64 /f/Java-Workout/Day1 (master)
+$ ls
+Notes.txt
+
+Deepti@VAIO-Deepti MINGW64 /f/Java-Workout/Day1 (master)
