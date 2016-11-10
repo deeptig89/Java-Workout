@@ -34,6 +34,7 @@ public class Calculator {
                 System.out.println(String.format("The value is: %d", div));
                 break;
             default:
+                System.out.println(String.format("It is an invalid operator"));
                 break;
 
         }
